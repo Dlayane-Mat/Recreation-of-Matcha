@@ -19,3 +19,25 @@ h2 {
 .local {
   color: rgb(156, 91, 7);
 }
+ul {
+  list-style: none;
+  margin: 30px;
+}
+li {
+  margin: 50px;
+  font-weight: bold;
+  font-size: larger;
+  color: bisque;
+}
+p {
+  font-weight: 100;
+  font-size: medium;
+  color: bisque;
+}
+a {
+  color: rgb(156, 91, 7);
+}
+button {
+  padding: 25px;
+  margin: 10px;
+}
