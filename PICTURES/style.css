@@ -2,3 +2,20 @@ body {
   background: rgb(1, 59, 1);
   text-align: center;
 }
+h1 {
+  color: whitesmoke;
+  font-size: 45px;
+  font-weight: bold;
+  word-spacing: 20px;
+}
+h2 {
+  color: white;
+  font-size: x-large;
+  font-weight: lighter;
+}
+.craft {
+  margin: 25px;
+}
+.local {
+  color: rgb(156, 91, 7);
+}
